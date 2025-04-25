@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "login": "Nastya",
+      "password": "009",
+      "notifications": []
+    },
+    {
+      "login": "Dima",
+      "password": "25634",
+      "notifications": []
+    },
+    {
+      "login": "Lena",
+      "password": "123",
+      "notifications": []
+    },
+    {
+      "login": "Dasha",
+      "password": "705",
+      "notifications": []
+    },
+    {
+      "login": "Masha",
+      "password": "111",
+      "notifications": []
+    }
+  ],
+  "authorized_user": null,
+  "documents": [
+    {
+      "name": "test.md",
+      "author": "Dasha",
+      "redactors": [
+        "Nastya"
+      ]
+    },
+    {
+      "name": "text.json",
+      "author": "Dasha",
+      "redactors": []
+    },
+    {
+      "name": "text.xml",
+      "author": "Dasha",
+      "redactors": []
+    },
+    {
+      "name": "hello.txt",
+      "author": "Dasha",
+      "redactors": [
+        "Lena"
+      ]
+    },
+    {
+      "name": "XmlToJson.xml",
+      "author": "Dima",
+      "redactors": []
+    },
+    {
+      "name": "XmlToJson.json",
+      "author": "Dima",
+      "redactors": []
+    }
+  ],
+  "current_document": null,
+  "text": null
+}
