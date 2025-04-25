@@ -1,0 +1,9 @@
+{
+    "book":
+        {
+          "title": "War and Peace",
+          "author": "Tolstoy",
+          "year": 1863,
+          "country": "Russia"
+        }
+}

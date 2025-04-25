@@ -1,0 +1,3 @@
+HELLO!!!
+***IT'S CONSOLE-BASED DOCUMENT EDITOR***
+[italic]italic[not italic] [bold]bold[not bold] [underline]underline[not underline]   [red]Каждый [orange]охотник [yellow]желает [green]знать [lightblue]где [blue]сидит [violet]фазан
