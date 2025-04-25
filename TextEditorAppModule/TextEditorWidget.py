@@ -50,7 +50,7 @@ class TextEditorWidget(App):
                 self.preview.update("wrong input")
 
         else: self.preview.update("not supported")
-        self.hint_text = "q quit, ctrl+s save localy, ctrl+o save in cloud, ctrl+n show updates of document, ctrl+z undo, ctrl+y redo, ctrl+t themes\n| notifications-> "
+        self.hint_text = "q quit, ctrl+s save localy, ctrl+o save in cloud, ctrl+z undo, ctrl+y redo, ctrl+t themes\n| notifications-> "
         self.updates = Static(f"{self.hint_text}", id="bottom-panel")                 
 
     CSS = """
